@@ -17,3 +17,4 @@ This project can be deployed.
 Please fork this repository and then issue Pull Requests
 ##Copyright
 Added a copyright notice.
+All rights reserved.
