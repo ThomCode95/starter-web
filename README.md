@@ -12,5 +12,7 @@ The purpose of this repository is to practice.
 ##Deployement
 This project can be deployed.
 
+##How to Contribute
+Please fork this repository and then issue Pull Requests
 ##Copyright
 Added a copyright notice.
